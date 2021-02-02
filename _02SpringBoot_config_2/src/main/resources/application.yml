@@ -1,0 +1,11 @@
+server:
+  port: 8082
+
+person:
+  name: fei~
+  age: 18
+  birthday: 2020-01-01 00:00:00
+  pet:
+    name: dog
+    color: red
+    age: 3
